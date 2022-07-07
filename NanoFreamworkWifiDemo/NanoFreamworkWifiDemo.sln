@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "WifiRequest", "WifiRequest.nfproj", "{7DC849DA-96BC-44EC-A58F-A07FA2C8163A}"
+EndProject
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "WifiConn", "WifiConn\WifiConn.nfproj", "{DB74DF57-6DB5-4646-ADC7-291AAC4685E4}"
+EndProject
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "WifiScan", "WifiScan\WifiScan.nfproj", "{B7DCB13E-7BED-4B26-9DCC-ABB771FA7204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC849DA-96BC-44EC-A58F-A07FA2C8163A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC849DA-96BC-44EC-A58F-A07FA2C8163A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC849DA-96BC-44EC-A58F-A07FA2C8163A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7DC849DA-96BC-44EC-A58F-A07FA2C8163A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC849DA-96BC-44EC-A58F-A07FA2C8163A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC849DA-96BC-44EC-A58F-A07FA2C8163A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DB74DF57-6DB5-4646-ADC7-291AAC4685E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB74DF57-6DB5-4646-ADC7-291AAC4685E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB74DF57-6DB5-4646-ADC7-291AAC4685E4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DB74DF57-6DB5-4646-ADC7-291AAC4685E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB74DF57-6DB5-4646-ADC7-291AAC4685E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB74DF57-6DB5-4646-ADC7-291AAC4685E4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B7DCB13E-7BED-4B26-9DCC-ABB771FA7204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DCB13E-7BED-4B26-9DCC-ABB771FA7204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DCB13E-7BED-4B26-9DCC-ABB771FA7204}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B7DCB13E-7BED-4B26-9DCC-ABB771FA7204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DCB13E-7BED-4B26-9DCC-ABB771FA7204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DCB13E-7BED-4B26-9DCC-ABB771FA7204}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D4928EF-B38E-4704-AB34-37BC2463216F}
+	EndGlobalSection
+EndGlobal
